@@ -41,19 +41,19 @@ Image#1: Home screen
 
 
 
-Image#2:  `country/argentina` screen
+Image#2:  `/country/argentina` screen
 
 ![home-screen](img/image02.png)
 
 
 
-Image#3: `country/argentina` screen
+Image#3: `/country/argentina` screen
 
 ![home-screen](img/image03.png)
 
 
 
-Image#4 `country/argentina` screen
+Image#4 `/country/argentina` screen
 
 ![home-screen](img/image04.png)
 
