@@ -60,9 +60,9 @@ Image#4 `/country/argentina` screen
 ## Technologies
 
 * [React](https://github.com/facebook/react) - version 15.6.1,
-* [Express](https://www.npmjs.com/package/express): -version 4.15.4,
-* [Sqlite3](https://www.npmjs.com/package/sqlite3) :  -version 4.0.6,
-* [Node](https://nodejs.org/en/): -version 12.16.1
+* [Express](https://www.npmjs.com/package/express) -version 4.15.4,
+* [Sqlite3](https://www.npmjs.com/package/sqlite3)  -version 4.0.6,
+* [Node](https://nodejs.org/en/) -version 12.16.1
 
 
 
