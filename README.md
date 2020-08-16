@@ -10,7 +10,7 @@ Gold Medal Metrics allows users to:
  - View a list of every Olympic win a country has with the year, season, winner name, city, and event.
  - Sort the list of Olympic wins by any of these attributes.
 
-The only file coded by the author is `sql.js`, that contains helper JavaScript functions which return the SQL queries (as strings) that operate Gold Medal Metrics. The rest of the files were NOT coded by the author.
+**The only file coded by the author is `sql.js`**, that contains helper JavaScript functions which return the **SQL queries** (as strings) that operate Gold Medal Metrics. **The remaining project files were NOT coded by the author.**
 
 
 
