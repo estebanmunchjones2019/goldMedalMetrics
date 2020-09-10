@@ -1,6 +1,6 @@
 # Gold Medal Metrics
 
-This is an Olympic metrics reporting web application called Gold Medal Metrics. It's a full-stack **SERN** (SQL,  [Express](https://www.npmjs.com/package/express), [React](https://github.com/facebook/react) and [Node](https://nodejs.org/en/)) App .
+This is an Olympic metrics reporting web application called Gold Medal Metrics. It's a full-stack **SERN** App (SQL,  [Express](https://www.npmjs.com/package/express), [React](https://github.com/facebook/react) and [Node](https://nodejs.org/en/)).
 
 Gold Medal Metrics allows users to:
 
@@ -29,7 +29,7 @@ Gold Medal Metrics allows users to:
 
 ## General info
 
-This project was coded to learn how to write SQL queries.
+This project was coded to learn how to write **SQL queries**.
 
 
 
